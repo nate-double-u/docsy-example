@@ -3,6 +3,8 @@
 title: "Documentation"
 linkTitle: "Documentation"
 weight: 20
+cascade:
+  version: current
 menu:
   main:
     weight: 20
